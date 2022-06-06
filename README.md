@@ -13,5 +13,8 @@
 - ![lightbgm](https://user-images.githubusercontent.com/37070545/172199115-90c4d8f3-b013-4ca4-9683-9e1a50a06a10.png)
 - xgboost
 - ![xgb](https://user-images.githubusercontent.com/37070545/172199141-7415f8c2-0f4d-4ec1-9da6-f240bfda820f.png)
+### Ensemble
+- 使用多次的結果以及不同參數得到的模型
+- 將結果去做加權平均
 ### 結果
 ![image](https://user-images.githubusercontent.com/37070545/172199308-0d56955f-9fab-4108-a950-40979ca78ea2.png)
