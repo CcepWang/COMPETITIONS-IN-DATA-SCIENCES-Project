@@ -18,3 +18,4 @@
 - 將結果去做加權平均
 ### 結果
 ![image](https://user-images.githubusercontent.com/37070545/172199308-0d56955f-9fab-4108-a950-40979ca78ea2.png)
+![image](https://user-images.githubusercontent.com/37070545/172283359-f9c054b9-6e44-40bd-9fae-8b7172e78513.png)
