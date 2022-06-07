@@ -9,9 +9,9 @@
 - 第二次執行後都可以直接讀取這個檔案後就可以往下訓練model
 ### 訓練
 - 使用了兩個模型
-- lightbgm
+- LightGBM
 - ![lightbgm](https://user-images.githubusercontent.com/37070545/172199115-90c4d8f3-b013-4ca4-9683-9e1a50a06a10.png)
-- xgboost
+- XGBoost
 - ![xgb](https://user-images.githubusercontent.com/37070545/172199141-7415f8c2-0f4d-4ec1-9da6-f240bfda820f.png)
 ### Ensemble
 - 使用多次的結果以及不同參數得到的模型
